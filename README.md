@@ -32,9 +32,9 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] **This Assignment is NOT tested. You can use all the desired creativity!**
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
@@ -57,18 +57,18 @@ This assignment should prove that a student is able to:
   - Font family
 - [ ] Set the font size using fixed pixel values.
 - [ ] Use at least two color systems of your choice for setting the color (hex, rgb, hsl, etc.).
-- [ ] Ensure each font weight value from the given list is used at least once:
+- [x] Ensure each font weight value from the given list is used at least once:
   - Bold
   - Normal
   - 400
   - 700
-- [ ] Each text decoration value from the provided list should be used at least once:
+- [x] Each text decoration value from the provided list should be used at least once:
   - Underline
   - Line-through
   - Overline
   - None
-- [ ] Include capitalized letters.
-- [ ] Style every letter in the message.
+- [x] Include capitalized letters.
+- [x] Style every letter in the message.
 - [ ] Group selectors with the same styles.
 
   You can group the letter selectors by the common styles:
