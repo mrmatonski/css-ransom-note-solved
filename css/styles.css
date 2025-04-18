@@ -143,7 +143,7 @@ body {
 /* FRONT-END word */
 
 .frontendFLetter {
-  font-family: 60px;
+  font-size: 65px;
   font-weight: 400;
   color: #bdb1bd;
   text-decoration: underline;
@@ -171,77 +171,183 @@ body {
 }
 
 .frontendNLetter {
+  font-size: 38px;
+  font-weight: 700;
+  color: #3a63c2;
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .frontendTLetter {
+  font-size: 62px;
+  font-weight: 400;
+  color: #7c89a6;
+  text-decoration: line-through;
+  text-transform: lowercase;
+  font-family: cursive;
 }
 
 .frontendELetter {
+  font-size: 42px;
+  font-weight: 700;
+  color: green; 
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Winky Rough, monospace;
+
 }
 
 .frontendNTwoLetter {
+  font-size: 32px;
+  font-weight: 900;
+  color: blue; 
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: inter, sans sans-serif;
 }
 
 .frontendDLetter {
+  font-size: 40px;
+  font-weight: bold;
+  color: green; 
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: Roboto, 'Times New Roman', Times, serif;
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  font-size: 65px;
+  font-weight: 400;
+  color: red; 
+  text-decoration: dotted;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-transform: capitalize;
 }
 .developerELetter {
+  font-size: 60px;
+  font-weight: 700;
+  color: magenta;
+  text-decoration: wavy;
+  text-transform: capitalize;
+  font-family: roboto, 'Times New Roman', Times, serif;
 }
 .developerVLetter {
+  font-size: 80px;
+  font-weight: bold;
+  color: red; 
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .developerETwoLetter {
+  font-size: 55px;
+  font-weight: 400;
+  color: blue; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .developerLLetter {
+  font-size: 55px;
+  font-weight: 700;
+  color: orange; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .developerOLetter {
+  font-size: 50px;
+  font-weight: bolder;
+  color: cyan; 
+  text-transform: capitalize;
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 .developerPLetter {
+  font-size: 41px;
+  font-weight: 400;
+  color: greenyellow; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 .developerEThreeLetter {
+  font-size: 58px;
+  font-weight: 700;
+  color: red; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
 }
 .developerRLetter {
+  font-size: 48px;
+  font-weight: bold;
+  color: pink; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 /* TAKE word */
 
-.takeTLetter {
+.takeTLetter, .takeALetter, .takeKLetter, .takeELetter {
+  font-size: 48px;
+  font-weight: bold;
+  color: pink; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.takeALetter {
-}
-.takeKLetter {
-}
-.takeELetter {
-}
+
+
+
 
 /* UP word */
 
-.upULetter {
+.upULetter, .upPLetter {
+  font-size: 60px;
+  font-weight: bold;
+  color: red; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
-.upPLetter {
-}
+
 
 /* GARDENING word */
 
-.gardeningGLetter {
+.gardeningGLetter  {
+  font-size: 40px;
+  font-weight: 400;
+  color: fuchsia;
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: fantasy;
+
 }
-.gardeningALetter {
+.gardeningALetter, .gardeningRLetter, .gardeningDLetter, .gardeningELetter, .gardeningNLetter, .gardeningILetter, .gardeningNTwoLetter, .gardeningGTwoLetter {
+  font-size: 32px;
+  font-weight: 700;
+  color: red; 
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: fantasy;
 }
-.gardeningRLetter {
-}
-.gardeningDLetter {
-}
-.gardeningELetter {
-}
-.gardeningNLetter {
-}
-.gardeningILetter {
-}
-.gardeningNTwoLetter {
-}
+
+
+
+
+
+
 .gardeningGTwoLetter {
 }
 
