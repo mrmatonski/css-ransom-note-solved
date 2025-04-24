@@ -578,13 +578,12 @@ body {
 /* ROOT word */
 
 .rootRLetter, .rootOLetter, .rootOTwoLetter, .rootTLetter {
-<<<<<<< HEAD
   font-family: monospace;
   font-weight: 700;
   color: #aaee09;
   text-decoration: line-through;
   text-transform: lowercase;
-  font-size: 64px;
+  font-size: 62px;
 }
 
 
